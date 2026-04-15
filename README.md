@@ -1,5 +1,5 @@
 # Supply-Chain-Delay-Prediction
-![WhatsApp Image 2026-04-12 at 2 25 51 PM](https://github.com/user-attachments/assets/71442b89-2005-4de2-abe8-37b1a8204deb) 
+[Gemini_Generated_Image_nnnbcwnnnbcwnnnb.png] (https://github.com/user-attachments/assets/71442b89-2005-4de2-abe8-37b1a8204deb) 
 
 
 ##  Project Overview
@@ -92,9 +92,10 @@ https://colab.research.google.com/drive/1oOTqRXpyf3oEJW015IzVmCg7wSKxNlVp#scroll
 
 ---
 
-##  Author
-Preeti  
- LinkedIn: www.linkedin.com/in/Preeti-HR
+##  Author Harmanjot Kaur 
+ LinkedIn: www.linkedin.com/in/harmanjot-kaur2003
+
+
 
 ---
 
