@@ -1,5 +1,5 @@
 # Supply-Chain-Delay-Prediction
-[Gemini_Generated_Image_nnnbcwnnnbcwnnnb.png] (https://github.com/user-attachments/assets/71442b89-2005-4de2-abe8-37b1a8204deb) 
+![Image](Gemini_Generated_Image_nnnbcwnnnbcwnnnb.png)
 
 
 ##  Project Overview
